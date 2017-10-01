@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import MD360Player4iOS
 
 class ViewController: UIViewController {
 
