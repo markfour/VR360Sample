@@ -38,6 +38,8 @@
 		2058E7851F8126FE00AECAB7 /* VR360SampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VR360SampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2058E7891F8126FE00AECAB7 /* VR360SampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VR360SampleTests.swift; sourceTree = "<group>"; };
 		2058E78B1F8126FE00AECAB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2058E7941F8155A400AECAB7 /* skyrim360.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = skyrim360.mp4; sourceTree = SOURCE_ROOT; };
+		2058E7951F8155A400AECAB7 /* bitmap360.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bitmap360.png; sourceTree = SOURCE_ROOT; };
 		49D325827F93FE2427681B42 /* Pods-VR360SampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VR360SampleTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-VR360SampleTests/Pods-VR360SampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		613D11440BDBEE9F507E1BAC /* Pods-VR360Sample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VR360Sample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-VR360Sample/Pods-VR360Sample.debug.xcconfig"; sourceTree = "<group>"; };
 		99AF500486C8746C55592D6D /* Pods-VR360SampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VR360SampleTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-VR360SampleTests/Pods-VR360SampleTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -98,6 +100,8 @@
 		2058E7731F8126FE00AECAB7 /* VR360Sample */ = {
 			isa = PBXGroup;
 			children = (
+				2058E7951F8155A400AECAB7 /* bitmap360.png */,
+				2058E7941F8155A400AECAB7 /* skyrim360.mp4 */,
 				2058E7741F8126FE00AECAB7 /* AppDelegate.swift */,
 				2058E7761F8126FE00AECAB7 /* ViewController.swift */,
 				2058E7781F8126FE00AECAB7 /* Main.storyboard */,
