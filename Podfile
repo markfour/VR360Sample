@@ -6,6 +6,7 @@ target 'VR360Sample' do
   use_frameworks!
 
   # Pods for VR360Sample
+  pod 'MD360Player4iOS'
 
   target 'VR360SampleTests' do
     inherit! :search_paths
