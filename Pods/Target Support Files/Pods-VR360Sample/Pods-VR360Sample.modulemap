@@ -1,0 +1,6 @@
+framework module Pods_VR360Sample {
+  umbrella header "Pods-VR360Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
